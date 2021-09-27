@@ -48,20 +48,10 @@ Python으로 하는 Financial 데이터 분석!
 
 <hr>
 
-# 감성 분석 (WordCloud 이용)
-먼저 저희는 사람들의 반응이 주가에 영향을 준다고 생각하였습니다.
+이후 자세한 분석 목차는 다음과 같습니다.
 
-그래서 사람들의 반응이 가장 잘 반영되는 분야인 **엔터테인먼트**에서도 **하이브**라는 종목을 선택하였습니다.
+## 감성 분석 (WordCloud 이용)
 
-그리고 유명 커뮤니티 사이트인 **인스티즈**에서 대중의 반응을 텍스트로 수집하였습니다.
+## 유사도 분석
 
-![image](https://user-images.githubusercontent.com/59231602/132647794-aac578f4-2666-4ed4-9dbe-916cfba6fab5.png)
-
-![image](https://user-images.githubusercontent.com/59231602/132648160-89e298c6-3967-4476-9896-94a99497b2cd.png)
-
-먼저 인스티즈의 게시글들을 **하이브의 주가등락이 컸던 날 ±5일을 기준으로** 반응들을 불러왔습니다.
-![image](https://user-images.githubusercontent.com/59231602/132648375-06525632-fc74-4f63-bb4e-3a83d6d8a7ca.png)
-
-# 유사도 분석
-
-# 예측
+## 예측
